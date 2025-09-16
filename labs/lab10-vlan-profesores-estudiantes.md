@@ -186,7 +186,7 @@ Hacés:
 
 ping 200.20.5.1
 
-Reflexión
+## Reflexión
 
 Este fue mi primer laboratorio completo de VLANs con inter-VLAN routing.
 
