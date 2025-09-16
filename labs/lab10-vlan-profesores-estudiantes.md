@@ -198,6 +198,11 @@ Entendí la importancia de los gateways para la comunicación entre subredes.
 
 Próximo paso: practicar ACLs (listas de control de acceso) para que ciertas VLANs puedan o no comunicarse.
 
+## DESCARGAR PROYECTO PACKET TRACER LAB10 VLANs
+
+[Descargar archivo Packet Tracer](../packet-tracer/lab10-vlans25-8.pkt)
+
+
 
 
 
