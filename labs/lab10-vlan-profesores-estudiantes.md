@@ -52,7 +52,7 @@ Mascara: 255.255.255.0
 Gateway: 198.100.12.1
 
 
-PC 3 en VLAN20
+PC 2 en VLAN20
 
 IP: 200.20.5.20
 
