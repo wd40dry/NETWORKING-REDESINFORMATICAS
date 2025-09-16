@@ -27,6 +27,9 @@ Conectá el switch al Router A (puerto G0/0).
 Conectá el switch al Router B (puerto G0/0).
 
 
+## Evidencia
+
+![Captura VLAN] (../assets/lab10-redes-vlans.jpeg)
 
 
 # Configuración de VLANs y PCs  
